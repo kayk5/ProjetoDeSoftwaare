@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840119001871",
+    "project_id": "ecofin-1744b",
+    "storage_bucket": "ecofin-1744b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840119001871:android:e649f1764dc84185c1547a",
+        "android_client_info": {
+          "package_name": "com.example.ecofin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoUqQZTVJv1XiBL5aCjcBG-C2fY-IkgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
